@@ -1,8 +1,8 @@
-### Full Stack Engineer 👨🏽‍💻
+### Software Engineer
 
-🇧🇷 São Paulo, São Paulo <br>
-👨🏽‍🎓 Computer Science - Federal University of ABC <br>
-📫 vitor.silvestre@aluno.ufabc.edu.br <br>
+**from📍: São Paulo, Brazil** <br>
+**education 👨🏽‍🎓: Computer Science - Federal University of ABC** <br>
+**contact 📧: vitor.silvestre@aluno.ufabc.edu.br** <br>
 <hr></hr>
 
 ### Skills & Technologies 💻
