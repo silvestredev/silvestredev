@@ -12,5 +12,4 @@
 - **Microfrontends**
 - **AWS**
 - **Docker**
-- **<more>**
 <hr></hr>
