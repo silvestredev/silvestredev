@@ -13,5 +13,5 @@
 - **Backend for Frontend**
 - **AWS**
 - **Docker**
-- **more...**
+- ...➕
 <hr></hr>
