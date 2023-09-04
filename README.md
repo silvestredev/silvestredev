@@ -10,6 +10,7 @@
 - **Angular**
 - **RESTful API's development**
 - **Microfrontends**
+- **Backend for Frontend**
 - **AWS**
 - **Docker**
 <hr></hr>
